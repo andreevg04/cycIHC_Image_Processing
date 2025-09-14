@@ -1,6 +1,6 @@
 # cycIHC-Image-Processing
-cycIHC Image Processing Scripts
-
+Code accompanying our manuscript  
+["Spatial Correlation of the Extracellular Matrix to Immune Cell Phenotypes in the Tumor Boundary of Clear Cell Renal Cell Carcinoma Revealed by Cyclic Immunohistochemistry"](https://www.laboratoryinvestigation.org/article/S0023-6837(25)00040-6/fulltext)
 ## Tutorial
 
 ### 1. Core Extraction:
